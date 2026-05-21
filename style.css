@@ -114,7 +114,6 @@ main {
     font-size: clamp(13px, 0.5vw + 12px, 14px);
     text-decoration: underline;
     cursor: pointer;
-    transition: color 0.2s, text-decoration 0.2s;
 }
 
 .change:hover {
